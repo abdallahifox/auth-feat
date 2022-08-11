@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "./components/Layout/layout";
+import Layout from "./components/Layout/Layout";
 import Navbar from "./components/Navbar";
 import LoginForm from "./components/LoginForm";
 import AdminComponent from "./components/AdminComponent";
